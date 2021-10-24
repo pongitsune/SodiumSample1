@@ -1,4 +1,4 @@
-## SodiumSample1 [F# と Sodium でリアクティブ・プログラミング（2）]
+## SodiumSample1 [F# と Sodium でリアクティブ・プログラミング（1）]
 SodiumFRP.FSharpのサンプルコード　その1
 - **SodiumSample1**　F#によるSodiumFRP.FSharp サンプルコード。記事URL: [https://pongitsune.hatenablog.com/entry/2021/10/07/190000](https://pongitsune.hatenablog.com/entry/2021/10/07/190000)
 ## SodiumSample2 [F# と Sodium でリアクティブ・プログラミング（2）]
